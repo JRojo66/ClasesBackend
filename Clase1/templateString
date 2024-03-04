@@ -1,0 +1,12 @@
+const nombre = "Javier";
+const apellido = "Rojo";
+const valor1 = 8;
+const valor2 = 19;
+
+// backsticks = alt-96
+const resultado = `El resultado de la operación del valor1 mas el valor2 = ${valor1+valor2}`;
+console.log(resultado);
+
+//const nombreYapellido = nombre + ` ` + apellido;
+const nombreYapellido = `${nombre}  ${apellido}`
+console.log(nombreYapellido);

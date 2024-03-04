@@ -1,0 +1,15 @@
+// array
+//               [0]  [1]  [2]  [3]  [4]
+const numeros = [100, 200, 300, 400, 500];
+
+// object
+const usuario = {
+    nombre: "Javier",
+    apellido: "Rojo",
+    hinchaEquipo: "River",
+    direccion: "Luis Garcia 1108 - Tigre Chico",
+    edad: 57,
+    cursos: ["React", "Javascript", "Desarrollo web"]
+};
+
+// el formato es parecido a un json
